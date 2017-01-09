@@ -1,1 +1,1 @@
-# python_study
+# some junk training python
